@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Button.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Button.xnb","TextureProcessor","Texture2DContent",20132,36949,0,1257841
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Brevno.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/Brevno.xnb","TextureProcessor","Texture2DContent",3578,1765,0,0059717
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/DrakL.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/DrakL.xnb","TextureProcessor","Texture2DContent",7935,8817,0,0094933
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Human.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/Human.xnb","TextureProcessor","Texture2DContent",5843,5593,0,0069758
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/MonsterR.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/MonsterR.xnb","TextureProcessor","Texture2DContent",7686,7973,0,0065054
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tile1.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/Tile1.xnb","TextureProcessor","Texture2DContent",3592,6325,0,0065048
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tile2.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/Tile2.xnb","TextureProcessor","Texture2DContent",4184,6325,0,0085018
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tree.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Day/Tree.xnb","TextureProcessor","Texture2DContent",4987,13229,0,0124765
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Exit.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Exit.xnb","TextureProcessor","Texture2DContent",15494,36949,0,0099818
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/FontMenu.spritefont","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/FontMenu.xnb","FontDescriptionProcessor","SpriteFontContent",2015,21521,0,1746878
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Health.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Health.xnb","TextureProcessor","Texture2DContent",3500,902101,0,0297246
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/NewGame.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/NewGame.xnb","TextureProcessor","Texture2DContent",15658,36949,0,0114784
+"D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Resume.png","D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/bin/Windows/Resume.xnb","TextureProcessor","Texture2DContent",15747,36949,0,0109799

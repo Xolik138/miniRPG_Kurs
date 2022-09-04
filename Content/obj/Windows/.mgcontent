@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Button.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Brevno.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/DrakL.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Human.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/MonsterR.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tile1.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tile2.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Day/Tree.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Exit.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/FontMenu.spritefont</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Health.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/NewGame.png</File>
+    <File>D:/VisualStudio17/TechProgKurs/TechProgKurs/Content/Resume.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
